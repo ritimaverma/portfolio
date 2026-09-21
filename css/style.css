@@ -1,0 +1,26 @@
+body{
+    margin:0;
+    padding:0;
+    width:100%;
+    height:100%;
+    background-color:rgb(81, 81, 182);
+    color:white;
+
+}
+img{
+    width:200px;
+    height:250px;
+}
+
+.image-container{
+    width:100%;
+    height:20%;
+    display: flex;
+    
+    background-color: aliceblue;
+}
+.image-container h1{
+    padding-top: 100px;
+    color:black;
+}
+
